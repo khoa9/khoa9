@@ -2,7 +2,7 @@
 
 - MS in Information Systems at Georgia State University
 
-- Passionate about all fields in the Data World
+- Passionate about  the Data World
   
 <h3 align="left">⚡ Things I like to do</h3>
 
