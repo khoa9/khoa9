@@ -16,7 +16,7 @@
 
 - Integrate data from multiple sources to build Business Intelligence dashboards.
 
-- Build optimized SQL queries
+- Build optimized SQL/ NoSQL queries
 
 - Build AI models for the entertainment industry, specifically sports, music, and movies. 
 
