@@ -10,7 +10,15 @@
 
 - Working on optimizing data infrastructure
 
-- Building data-related products 
+- Building data-related products
+
+<h3 align="left">💥 Things I specialize at</h3>
+
+- Integrate data from multiple sources to build Business Intelligence dashboards.
+
+- Build optimized SQL queries
+
+- Build AI models for the entertainment industry, specifically sports, music, and movies. 
 
 <h3 align="left">🍎 I'm currently learning</h3>
 
